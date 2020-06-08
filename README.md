@@ -1,4 +1,4 @@
-# https-github.com-viivan-Mashup-service-clustering-algorithms
+# Mashup-service-clustering-algorithms
 包含T+Q、T+K、LDA、L+K、F+K、F+C+K算法代码，方法的具体介绍如下：
 
 T+Q：该方法将每个Mashup服务描述文本转化为TF-IDF特征向量进行QT聚类。
